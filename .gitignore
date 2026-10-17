@@ -1,0 +1,4 @@
+results/**/skills_*.csv
+__pycache__/
+*.pyc
+.idea/
