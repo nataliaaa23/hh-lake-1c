@@ -1,0 +1,16 @@
+{
+  "total": 229388,
+  "variant": 20953,
+  "with_skills": 13452,
+  "bad": 0,
+  "chunks": 102,
+  "retries": 0,
+  "distinct_1": 2406,
+  "distinct_2": 32298,
+  "distinct_3": 198426,
+  "seconds": 24.1,
+  "peak_mb_main": 366.9,
+  "peak_mb_worker": 201.1,
+  "workers": 4,
+  "threads": 8
+}

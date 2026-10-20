@@ -1,0 +1,10 @@
+method,run,seconds,peak_mb,exit_code
+mapreduce,1,81.4,513.2,0
+mapreduce,2,80.9,523.0,0
+mapreduce,3,78.9,521.7,0
+duckdb,1,76.1,308.4,0
+duckdb,2,84.4,343.4,0
+duckdb,3,79.3,355.3,0
+mapreduce_opt,1,23.1,688.0,0
+mapreduce_opt,2,24.7,698.8,0
+mapreduce_opt,3,26.0,731.1,0
